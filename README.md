@@ -6,7 +6,7 @@
 
 - 🎁 Desenvolvo alguns projetos
   
-- 🎨 Meu portifólio: (Em produção)  
+- 🎨 Meu portifólio: https://github.com/ErnestoNto/portifolio
   
 ## 🛠 Tecnologias que domino
 
